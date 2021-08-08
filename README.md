@@ -42,6 +42,10 @@ I too am a testing enthusiast and prefer utilizing the `Jest` assertion/test-run
 6. Flask
 7. Django
 8. Ruby on Rails
+9. TypeORM
+10. TypeGraphQL
+11. Docker
+12. Kubernetes
 
 ## Databases
 
@@ -50,3 +54,8 @@ I too am a testing enthusiast and prefer utilizing the `Jest` assertion/test-run
 3. PostgreSQL
 4. Redis
 5. LowDB
+
+## Messaging Systems
+
+1. RabbitMQ
+2. Kafka
