@@ -12,7 +12,7 @@ I have programmed previously in other stacks as well, such as Python (Flask and 
 
 I have worked on very large enterprise engineering teams, working in `microservices` as part of our large back-end infrastructure and have recently been working to build a large `micro-front-end` infrastructure around the `SingleSPA` framework for our current UI Platform.
 
-I too am a testing enthusiast and prefer utilizing the `Jest` assertion/test-runner framework in the JavaScript/TypeScript ecosystem. For backend E2E tests, I use both supertest and newman from Postman. On the frontend, I use both Cypress or Selenium Web Driver and Puppeteer.
+I too am a testing enthusiast and prefer utilizing the `Jest` assertion/test-runner framework in the JavaScript/TypeScript ecosystem with React Testing Library. For backend E2E tests, I use both supertest and newman from Postman. On the frontend, I use both Cypress or Selenium Web Driver and Puppeteer.
 
 ## Languages
 
@@ -30,6 +30,7 @@ I too am a testing enthusiast and prefer utilizing the `Jest` assertion/test-run
 3. Angular
 4. Vanilla TS/JS
 5. jQuery
+6. SingleSPA - Micro Front-End Framework
 
 ## Back-End Frameworks
 
