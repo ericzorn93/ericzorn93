@@ -62,3 +62,8 @@ Hey everyone! My name is Eric Zorn. I am a Senior Full-Stack Software Engineer. 
 1. gRPC
 2. tRPC
 3. Buf.build
+
+## Mobile
+
+1. React Native (with and without Expo)
+2. Flutter and Dart
