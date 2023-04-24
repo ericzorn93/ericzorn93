@@ -5,20 +5,25 @@ Hey everyone! My name is Eric Zorn. I am a Senior Full-Stack Software Engineer. 
 ## Languages
 
 1. TypeScript / JavaScript
-2. GoLang
-3. Python
-4. Ruby
-5. PHP
-6. Java
+2. Golang
+3. Rust
+4. Python
+5. Ruby
+6. PHP
+7. Java
 
 ## Front-End Frameworks
 
 1. React
-2. Svelte
-3. Angular
-4. Vanilla TS/JS
-5. jQuery
-6. SingleSPA - Micro Front-End Framework
+2. NextJS
+3. Svelte
+4. Sveltekit
+5. Angular
+6. Vanilla TS/JS
+7. jQuery
+8. SingleSPA - Micro Front-End Framework
+9. SolidJS
+10. QuikJS
 
 ## Back-End Frameworks
 
@@ -34,6 +39,9 @@ Hey everyone! My name is Eric Zorn. I am a Senior Full-Stack Software Engineer. 
 10. TypeGraphQL
 11. Docker
 12. Kubernetes
+13. Actix Web
+14. Axum
+15. GraphQL
 
 ## Databases
 
@@ -47,3 +55,10 @@ Hey everyone! My name is Eric Zorn. I am a Senior Full-Stack Software Engineer. 
 
 1. RabbitMQ
 2. Kafka
+3. SNS/SQS
+
+## RPC
+
+1. gRPC
+2. tRPC
+3. Buf.build
